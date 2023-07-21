@@ -24,22 +24,17 @@ The user experience is prioritized in this application, offering users the follo
 - Track orders in real-time to stay informed about the delivery process.
 - Manage profile details effortlessly.
 
-### Exciting New Features 🌟
-As part of ongoing improvements, I have introduced several exciting features to enhance the shopping experience, including:
-
-- Product images for visual representation.
-- Detailed product descriptions for better understanding.
-- Customer reviews and ratings for informed decision-making.
-
 ## Technology Stack 🔨
 
 - Backend: Java provides a robust foundation for seamless functionality.
 - Frontend: JSP ensures dynamic web pages and an engaging user interface.
 - Database: SQL is utilized to efficiently manage data retrieval and storage operations.
 
-## Future Scope and Improvements 📈
+### Future Scope and Improvements 🌟📈
 
-As the project evolves, I plan to focus on the following:
+As part of ongoing improvements, I have decided to add several features to enhance the shopping experience, including product images for visual representation, detailed product descriptions for better understanding, and customer reviews and ratings for informed decision-making.
+
+Moving forward, I plan to focus on the following:
 
 - Optimizing performance and scalability to accommodate a growing user base.
 - Incorporating user feedback to refine the user experience and add additional features.
