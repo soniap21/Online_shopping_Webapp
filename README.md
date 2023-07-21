@@ -53,8 +53,7 @@ To explore the Online Shopping Web Application, follow these steps:
 ## Demo Video
 
 You can check out the shared video in my LinkedIn profile to see the application in action. 
-https://www.linkedin.com/in/sonia-patra/
-
+(https://www.linkedin.com/feed/update/urn:li:activity:7088150786806849536/)
 
 Feel free to provide feedback or suggestions to help us improve the application.
 
